@@ -1,0 +1,52 @@
+{
+  "../../components/elements/ThemeSwitch": [
+    {
+      "id": "2l2w",
+      "file": "static/chunks/10.391835058da15882cf0d.js"
+    }
+  ],
+  "../elements/ThemeSwitch": [
+    {
+      "id": "2l2w",
+      "file": "static/chunks/10.391835058da15882cf0d.js"
+    }
+  ],
+  "react-modal-video": [
+    {
+      "id": "60Bi",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "S3Uj",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "Si88",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "TqRt",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "VCL8",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "VOcB",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "xfxO",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "yD6e",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    },
+    {
+      "id": "ycFn",
+      "file": "static/chunks/51.82b8506e25fbf28f2d5e.js"
+    }
+  ]
+}
